@@ -1,0 +1,17 @@
+# Contents of .gitignore
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.obj
+*.lib
+*.exp
+*.dll.a
+*.a
+*.bat
+*.DS_Store
+build/
+CMakeFiles/
+html/

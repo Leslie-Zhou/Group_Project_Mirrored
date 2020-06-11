@@ -1,0 +1,2 @@
+Model Viewer Program created by Group 35
+This program makes use of Microsoft, QT, and VTK Debug Libraries and therefore not suitable to be redistributed for commercial use.
